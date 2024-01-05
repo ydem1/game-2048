@@ -1,9 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
-
-
 # 2048 Game
 Welcome to the 2048 Game! This project is a simple implementation of the popular 2048 puzzle game using HTML, CSS, and vanilla JavaScript. The goal of the game is to slide numbered tiles on a grid to combine them and reach the tile with the number 2048.
 
